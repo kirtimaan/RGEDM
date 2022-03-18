@@ -23,7 +23,7 @@ Please cite:
 }
 
 
-3. https://arxiv.org/pdf/2203.04326.pdf
+2. https://arxiv.org/pdf/2203.04326.pdf
 
 @article{Becker:2022iso,
     author = "Becker, Mathias and Copello, Emanuele and Harz, Julia and Mohan, Kirtimaan A. and Sengupta, Dipan",
