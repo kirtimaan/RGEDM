@@ -2,6 +2,7 @@
 Calculates Spin dependent and Spin Independent cross-sections in the t-channel simplified model. The code RGE evolves the relevant wilson co-efficients from a high scale down to a low scale. 
 Please cite: 
 1. https://arxiv.org/pdf/1903.05650.pdf
+
 @article{Mohan:2019zrk,
     author = "Mohan, Kirtimaan A. and Sengupta, Dipan and Tait, Tim M. P. and Yan, Bin and Yuan, C. P.",
     title = "{Direct detection and LHC constraints on a $t$-channel simplified model of Majorana dark matter at one loop}",
