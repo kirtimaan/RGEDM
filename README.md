@@ -1,5 +1,8 @@
 # RGEDM
-Calculates Spin dependent and Spin Independent cross-sections in the t-channel simplified model. The code RGE evolves the relevant wilson co-efficients from a high scale down to a low scale. 
+Calculates Spin dependent and Spin Independent cross-sections in the t-channel simplified model. The code 
+1. RGE evolves the relevant wilson co-efficients from a high scale down to a low scale. 
+2. Contains relevant Wilson coefficients evaluated at tree level and at one loop.
+
 Please cite: 
 1. https://arxiv.org/pdf/1903.05650.pdf
 
