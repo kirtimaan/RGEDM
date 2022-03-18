@@ -3,7 +3,7 @@
 1. RGE evolves the relevant wilson co-efficients from a high scale down to a low scale. 
 2. Contains relevant Wilson coefficients evaluated at tree level and at one loop.
 
-### A [Constrainer.wl](https://github.com/kirtimaan/RGEDM/blob/5b159e04945877846a6a01fa647f7da1b2324dcc/Constrainer.wl) file has been provided to show how to run the code and extract constraints. 
+### A [Constrainer.wl](https://github.com/kirtimaan/RGEDM/blob/5b159e04945877846a6a01fa647f7da1b2324dcc/Constrainer.wl) file has been provided that shows how to run the code and extract constraints. 
 
 Please cite: 
 1. https://arxiv.org/pdf/1903.05650.pdf
